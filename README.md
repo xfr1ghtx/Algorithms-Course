@@ -12,9 +12,9 @@
 In technical interviews, you will be expected to code up an efficient algorithm, talk comfortably about the design, analysis and tradeoffs of a specific algorithm. Being able to succinctly perform these tasks in a timely fashion and communicate your ideas in a coherent manner is what can make the difference in thousands of dollars of compensation.
 #### **_Topics Covered:_**
 * Arrays
-  * [Static Arrays](1_Beginner/2_Arrays/3_Static%20Arrays)
-  * [Dynamic Arrays](1_Beginner/2_Arrays/4_Dynamic%20Arrays)
-  * [Stacks](1_Beginner/2_Arrays/5_Stacks)
+  * [Static Arrays](1_Beginner/02_Arrays/3_Static%20Arrays)
+  * [Dynamic Arrays](1_Beginner/02_Arrays/4_Dynamic%20Arrays)
+  * [Stacks](1_Beginner/02_Arrays/5_Stacks)
 * Linked Lists
 * Recursion
 * Sorting
